@@ -24,7 +24,7 @@
 
 9. Run compiled output of server.c in your own machine [**$ ./server**] 
 
-10. Run **malware.exe** on target Windows Machine like a normal .exe application (fully undetectable)
+10. Run **malware.exe** on target Windows machine like a normal .exe application (fully undetectable)
 
 11. Use CMD commands to remotely access the target Windows machine from your own machine
 
