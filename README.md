@@ -8,11 +8,11 @@
 
 1. Open server.c using a text editor [**$ nano server.c**]
 
-2. Edit and add your own IP Address and random Port no. in the part labelled => **//set host IP Address and port [EDIT HERE]**
+2. Edit and add your own IP Address and random Port no. in the part labelled => **set host IP Address and port [EDIT HERE]**
 
 3. Open backdoor.c using a text editor [**$ nano backdoor.c**]
 
-4. Edit and add the same IP Address and Port no. from server.c in the part labelled => **//set host IP Address and port [EDIT HERE]**
+4. Edit and add the same IP Address and Port no. from server.c in the part labelled => **set host IP Address and port [EDIT HERE]**
 
 5. Compile server.c using GCC [**$ gcc server.c -o server**]
 
