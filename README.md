@@ -1,6 +1,6 @@
 # stealthx-malware-backdoor
 
-**Description** : Fully Undetectable Malware Backdor
+**Description** : Fully Undetectable Malware Backdoor
 
 **Disclaimer** : Make sure you have GCC installed in your System
 
