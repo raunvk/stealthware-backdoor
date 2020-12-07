@@ -1,4 +1,4 @@
-**Extensive Features :**
+Extensive Features :
 
 1) Automatically runs when machine is rebooted
 2) Can navigate through directories
