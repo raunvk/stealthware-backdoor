@@ -1,4 +1,4 @@
-# stealthx-malware-backdoor
+# stealthware-backdoor
 
 **Description** : Fully Undetectable Malware Backdoor
 
