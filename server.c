@@ -8,7 +8,7 @@
 #include <arpa/inet.h>	//port and socket operations
 
 //set host IP Address and Port [EDIT HERE]
-char *ServIP = "192.168.0.6";
+char *ServIP = "192.168.0.9";
 unsigned short ServPort = 54654;
 
 //create connection, send command, receive response
