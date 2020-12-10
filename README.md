@@ -28,7 +28,7 @@
 
 11. Use CMD commands to remotely access the target Windows machine from your own machine
 
-12. Type => **q** to quit the server and exit.
+12. Type **q** to quit the server and exit.
 
 **Backdoor Mechanism** :
 
