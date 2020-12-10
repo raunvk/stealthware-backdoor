@@ -2,7 +2,7 @@
 
 **Description** : Fully Undetectable Malware Backdoor
 
-**Disclaimer** : Make sure you have GCC installed in your System
+**Requisite** : Make sure you have GCC installed in your System
 
 **For Unix-like OS** :
 
