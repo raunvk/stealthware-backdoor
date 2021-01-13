@@ -4,7 +4,7 @@
 
 **Requisite** : Make sure you have GCC installed in your System
 
-**For Unix-like OS** :
+**For Debian-based OS** :
 
 1. Open server.c using a text editor [**$ nano server.c**]
 
