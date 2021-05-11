@@ -20,7 +20,7 @@
 
 7. Compile backdoor.c using MinGW to create .exe file [**$ i686-w64-mingw32-gcc -o malware.exe backdoor.c -lwsock32 -lwininet**]
 
-8. Use USB/Social Enginnering to transfer **malware.exe** to target Windows machine (must be connected within same network)
+8. Use USB/Social Engineering to transfer **malware.exe** to target Windows machine (must be connected within same network)
 
 9. Run compiled output of server.c in your own machine [**$ ./server**] 
 
