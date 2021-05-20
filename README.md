@@ -1,6 +1,6 @@
 # stealthware-backdoor
 
-**Description** : Fully Persistent & Undetectable Malware Backdoor
+**Description** : Persistent & Undetectable Malware Backdoor
 
 **Requisite** : Make sure you have GCC installed in your System
 
