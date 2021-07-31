@@ -32,4 +32,4 @@
 
 **Backdoor Mechanism** :
 
-![](backdoor.png) 
+![](backdoor-mechanism.png) 
