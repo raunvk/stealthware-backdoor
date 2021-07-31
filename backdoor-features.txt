@@ -1,6 +1,6 @@
 Extensive Features :
 
 1) Automatically runs when machine is rebooted
-2) Can navigate through directories
-3) Supports keystroke logging
+2) Can navigate through files & directories
+3) Supports fundamental keystroke logging
 4) Fully undetectable by Windows Firewall
