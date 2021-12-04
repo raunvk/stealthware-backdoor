@@ -1,6 +1,6 @@
 # stealthware-backdoor
 
-**Course Undertaken** : https://www.udemy.com/course/build-undetectable-malware-using-c-language-ethical-hacking/
+**Course/Code Credit** : https://www.udemy.com/course/build-undetectable-malware-using-c-language-ethical-hacking/
 
 **Description** : Persistent & Undetectable Malware Backdoor
 
